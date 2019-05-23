@@ -1,0 +1,43 @@
+div{  }
+body{  }
+.container{
+    background: #9E9E9E;
+    width: 1000px;
+    height:600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.col-1-3{
+    width: 33.33%;
+    height: 150px;
+    float: left;
+}
+.col-1-1{
+    height: 150px;
+    width: 100%;
+    background: orange;
+    float: left;
+}
+.col-1-2{
+    height: 150px;
+    width: 50%;
+    float: left;
+    background: blue;
+}
+.col-8-10{
+    height: 150px;
+    width: 80%;
+    float: left;
+    background: #1fda27;
+}
+.col-1-10{
+    height: 150px;
+    width: 10%;
+    float: left;
+    background: #c724b2;
+}
+.green{background-color: green; }
+.orange{background-color: orange; }
+.red{background-color: red; }
+.skyblue{background-color: skyblue; }
+.purple{background-color: purple; }
